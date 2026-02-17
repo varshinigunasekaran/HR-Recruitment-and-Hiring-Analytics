@@ -2,4 +2,4 @@
 HR recruitment analysis using SQL,PowerBI
 
 ##Dashboard Preview
-![Dashboard](HR Recruitment.png)
+![Dashboard](HR_Recruitment.png)
